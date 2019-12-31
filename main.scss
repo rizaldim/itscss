@@ -1,0 +1,12 @@
+@import "settings/index";
+@import "tools/index";
+@import "generic/index";
+@import "elements/index";
+@import "objects/index";
+@import "components/index";
+@import "alterations/index";
+
+h1 {
+	font-size: $header;
+	color: $primary-color;
+}
